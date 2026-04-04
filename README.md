@@ -32,12 +32,6 @@
 ---
 
 ## 📊 SISTEMA DE DADOS
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akiz-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiz-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akiz-dev&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
