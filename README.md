@@ -63,7 +63,7 @@
 ## 🚀 PROJETOS (VITRINE)
 
 <p align="center">
-  <a href="https://github.com/akiz-dev/portfolio-website">
+  <a href="https://akiz-dev.github.io/app_mata_mosquito/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/akiz-dev/todo-app-js">
@@ -72,10 +72,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/akiz-dev/landing-page">
+  <a href="https://akiz-dev.github.io/app_calculator/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=landing-page&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/akiz-dev/ai-project">
+  <a href="https://akiz-dev.github.io/contador-2.0/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=ai-project&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
@@ -94,7 +94,7 @@
 ## 📡 CONEXÃO
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/akiz-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
