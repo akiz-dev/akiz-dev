@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://akiz-dev.github.io/app_mata_mosquito/">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/akiz-dev/todo-app-js">
     <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=todo-app-js&theme=tokyonight&hide_border=true"/> -->
