@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://akiz-dev.github.io/app_calculator/">
-    <img src="https://akiz-dev.github.io/app_calculator/"/>
+    <img src="[https://akiz-dev.github.io/app_calculator/](https://github.com/akiz-dev/app_calculator/blob/main/assets/favicon/icons8-calculator-(2)-16.png)"/>
   </a>
   <a href="https://akiz-dev.github.io/contador-2.0/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=ai-project&theme=tokyonight&hide_border=true"/>
