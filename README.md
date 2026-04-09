@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://akiz-dev.github.io/app_mata_mosquito/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/> -->
   </a>
   <a href="https://github.com/akiz-dev/todo-app-js">
     <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=todo-app-js&theme=tokyonight&hide_border=true"/> -->
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://akiz-dev.github.io/app_calculator/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=landing-page&theme=tokyonight&hide_border=true"/>
+    <img src="https://akiz-dev.github.io/app_calculator/"/>
   </a>
   <a href="https://akiz-dev.github.io/contador-2.0/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akiz-dev&repo=ai-project&theme=tokyonight&hide_border=true"/>
