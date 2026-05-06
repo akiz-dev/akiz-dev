@@ -34,13 +34,6 @@
 
 ---
 
-## 📊 SISTEMA DE DADOS
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akiz-dev&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
----
-
 ## 🐍 CONTRIBUTION SNAKE (VIDA DO PERFIL)
 
 <p align="center">
