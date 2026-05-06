@@ -23,6 +23,9 @@
 
 ---
 
+## Roadmap.sh Progress
+[![roadmap.sh](https://roadmap.sh/card/tall/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=javascript%2Cfrontend)](https://roadmap.sh)
+
 ## 🧠 TECH MATRIX
 
 <p align="center">
