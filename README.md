@@ -25,7 +25,7 @@ Estudando constantemente desenvolvimento frontend e IA aplicada com Prompt Engin
 
 ---
 
-## Roadmap
+## RoadCards
 
 [![roadmap.sh](https://roadmap.sh/card/wide/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=prompt-engineering%2Cfrontend%2Cjavascript)](https://roadmap.sh)
 
