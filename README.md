@@ -24,7 +24,7 @@
 ---
 
 ## Roadmap.sh Progress
-[![roadmap.sh](https://roadmap.sh/card/wide/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=javascript%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=prompt-engineering%2Cfrontend%2Cjavascript)](https://roadmap.sh) | [![roadmap.sh](https://roadmap.sh/card/tall/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=prompt-engineering%2Cfrontend%2Cjavascript)](https://roadmap.sh)
 
 ## 🧠 TECH MATRIX
 
