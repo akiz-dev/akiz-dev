@@ -33,7 +33,7 @@ Estudando constantemente desenvolvimento frontend e IA aplicada com Prompt Engin
 
 ## Projetos
 
-- 🔗 <a href="https://github.com/akiz-dev/roadmap.sh-projects"/>
+- 🔗 <a href="https://github.com/akiz-dev/roadmap.sh-projects">roadmap projects<a/>
 
 ---
 
