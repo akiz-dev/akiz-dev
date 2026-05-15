@@ -20,7 +20,7 @@ Estudando constantemente desenvolvimento frontend e IA aplicada com Prompt Engin
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ai,git,github,vscode" />
 </p>
 
 ---
