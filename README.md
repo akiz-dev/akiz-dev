@@ -27,7 +27,10 @@ Estudando constantemente desenvolvimento frontend e IA aplicada com Prompt Engin
 
 ## Skills
 
+- Prompt Engineering
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=prompt-engineering" alt="roadmap.sh"/></a>
+- Frontend
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69a9e27947536ddad10ec6b3?variant=dark&roadmaps=%2Cfrontend" alt="roadmap.sh"/></a>
 
 ---
 
