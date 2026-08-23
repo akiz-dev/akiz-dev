@@ -73,7 +73,7 @@
 - 🔹 [nome-do-projeto-2](link) — breve descrição do que o projeto faz
 -->
 
-💡 Dica: fixe (pin) seus 4-6 melhores repositórios na página do seu perfil GitHub para que apareçam automaticamente abaixo do README.
+<!-- 💡 Dica: fixe (pin) seus 4-6 melhores repositórios na página do seu perfil GitHub para que apareçam automaticamente abaixo do README.-->
 
 ---
 
