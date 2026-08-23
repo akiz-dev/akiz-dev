@@ -31,7 +31,7 @@
 > Marcando o que já estudei e o que ainda vem por aí.
 
 - [ ] Fundamentos de programação (JavaScript/TypeScript)
-- [ ] Como a internet e a web funcionam
+- [x] Como a internet e a web funcionam
 - [ ] Fundamentos de Blockchain (blocos, hashes, mineração, consenso)
 - [ ] Criptografia (hash functions, assinaturas digitais, chaves pública/privada)
 - [ ] Algoritmos de consenso (PoW, PoS)
